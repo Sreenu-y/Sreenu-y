@@ -33,7 +33,7 @@
 
 - 📫 How to reach me **srinuyelesam123@gmail.com**
 
-- ⚡ Motto **I did it, 'cause I like it.**
+- ⚡ **I did it, 'cause I like it.**
 
 
 
