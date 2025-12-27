@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sreenu Yelesam</h1>
 <h3 align="center">Crafting dynamic web apps with the MERN Stack and sharpening my problem-solving skills on LeetCode through Java.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sreenu-y&label=Profile%20views&color=0e75b6&style=flat" alt="achyuthavikaram" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sreenu-y&label=Profile%20views&color=0e75b6&style=flat" alt="sreenuyelesam" /> </p>
 
 
 
